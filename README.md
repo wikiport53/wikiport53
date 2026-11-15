@@ -14,7 +14,6 @@ Desarrollador enfocado en la creación de interfaces web modernas, dinámicas y 
 
 </div>
 
----
 
 ## 👨‍💻 Sobre mí
 
@@ -76,17 +75,7 @@ Videojuego educativo desarrollado en Unity, enfocado en la enseñanza de concept
 
 **Tecnologías:** Unity · C# 
 
----
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contacto
 
