@@ -83,7 +83,11 @@ Videojuego educativo desarrollado en Unity, enfocado en la enseñanza de concept
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/wikiport53)
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samalejandrogc@gmail.com)
+
+</div>
 
 </div>
 
