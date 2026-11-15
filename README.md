@@ -28,19 +28,18 @@ Me enfoco en construir interfaces intuitivas, funcionales y adaptables, integran
 - 🗄️ Gestión e integración de bases de datos.
 - 🚀 Aprendizaje continuo y desarrollo de proyectos.
 
----
 
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-### Front-End
+### 🎨 Front-End
 
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
-### Back-End y bases de datos
+### ⚙️ Back-End y bases de datos
 
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -48,16 +47,18 @@ Me enfoco en construir interfaces intuitivas, funcionales y adaptables, integran
 ![CSharp](https://skillicons.dev/icons?i=cs)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### Herramientas
+### 📊 Analítica y medición digital
+
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+### 🔧 Herramientas
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 </div>
-
----
-
 ## 🚀 Proyectos destacados
 
 ### 📦 Huella Express
@@ -85,17 +86,15 @@ Videojuego educativo desarrollado en Unity, enfocado en la enseñanza de concept
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
 ---
 
 ## 📫 Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/wikiport53)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samalejandrogc@gmail.com)
 
 </div>
 
@@ -104,5 +103,3 @@ Videojuego educativo desarrollado en Unity, enfocado en la enseñanza de concept
 **Gracias por visitar mi perfil. ¡Bienvenido a mis proyectos!** 🚀
 
 </div>
-
-
